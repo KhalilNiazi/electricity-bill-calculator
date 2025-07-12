@@ -78,7 +78,7 @@ int main() {
             }
     }
     else {
-        cout << "\n⚠️ Invalid meter type entered!" << endl;
+        cout << "\n⚠ Invalid meter type entered!" << endl;
         return 1;
     }
 
